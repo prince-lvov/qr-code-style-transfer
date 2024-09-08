@@ -1,0 +1,12 @@
+services:
+  qr-code-style-transfer:
+    deploy:
+      resources:
+        reservations:
+          devices:
+          - driver: nvidia
+            capabilities: [gpu]
+    build: .
+    ports:
+      - 5555:22
+    restart: always

@@ -1,0 +1,7 @@
+concrete-ml
+Pillow==10.4
+Matplotlib==3.7
+torchvision==0.14.1
+pyzbar
+qrcode
+scikit-image==0.21.0
