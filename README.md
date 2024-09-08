@@ -166,5 +166,6 @@ Next steps:
 3) Run **model_training.ipynb** (Change constants if needed)
 4) Run **main.ipynb** (Change constants if needed)
 
-
+## Demo
+Try out our model on [HuggingFace](https://huggingface.co/spaces/horaizon27/fhe_qrcode_generator)
 
